@@ -3,7 +3,6 @@
 
 ![image_2023-05-22_17-06-08](https://github.com/NWRecognize/Lab3.5_Description/assets/118212881/5cd8ce9f-1da3-4774-9e22-6e3ad99ef012)  
 ![image_2023-05-22_17-12-16](https://github.com/NWRecognize/Lab3.5_Description/assets/118212881/2935438b-9b12-4e80-9b79-8caf097fc931)
-
 *визитка является шаблоной для будущего продукта
 
 <h2 align=center>ОЖИДАЕМЫЙ ПРОДУКТОВЫЙ РЕЗУЛЬТАТ: </h2>
